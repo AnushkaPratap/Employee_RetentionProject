@@ -1,4 +1,4 @@
-# Employee_Retention Project
+# Employee_Retention Analysis
 Welcome to my Employee Retention Analysis project! 📊
 
 Project Overview: In today's dynamic business landscape, retaining top talent is crucial for organizational success. This project focuses on leveraging HR Analytics to gain deeper insights into employee retention trends using Microsoft Power BI. By examining historical data, we aim to provide actionable insights for HR professionals and decision-makers to enhance employee satisfaction, reduce turnover, and drive business growth.
