@@ -12,7 +12,7 @@ Predictive Modeling: Explore predictive analytics to anticipate employee churn a
 Recommendations: Provide actionable recommendations to improve employee engagement and retention strategies.
 Tools Used:
 
-Microsoft Power BI
+Microsoft Excel and Microsoft Power BI
 How to Use:
 
 Clone or download this repository.
