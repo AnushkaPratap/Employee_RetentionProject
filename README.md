@@ -25,8 +25,4 @@ Acknowledgments: I would like to express my gratitude to [Data Source Provider] 
 
 Explore the project, gain insights, and make informed decisions to strengthen your organization's HR strategies. Your contributions and engagement are invaluable in our journey to optimize employee retention.
 
-Get Started: [Link to Getting Started Documentation]
-
-License: This project is licensed under the [License Name] License - see the LICENSE.md file for details.
-
 Thank you for visiting, and I look forward to your collaboration and feedback!
